@@ -1,0 +1,13 @@
+webdriver:
+  poolMinIdle: 0
+  poolMaxActive: 10
+  pageLoadTimeout: 120
+  implicitWaitTimeout: 5
+  scriptTimeout: 5
+  windowWidth: 1024
+  windowHeight: 768
+  userAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:45.0) Gecko/20100101 Firefox/45.0
+#  userAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+
+test:
+  test1: kkk

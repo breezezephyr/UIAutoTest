@@ -1,0 +1,13 @@
+action
+
+1. login
+2. booking productid
+3. pay
+4. orderdetail
+5. refund
+
+function
+
+1. env isolate beta/prod
+2. crontab
+3. test result
